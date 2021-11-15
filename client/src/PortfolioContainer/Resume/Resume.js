@@ -64,10 +64,10 @@ export default function Resume(props) {
     {
       title: "Personal Portfolio Website",
       duration: { fromDate: "2021", toDate: "2021" },
-      link: <a href="https://deeeraaa.github.io/cocktailsDB/">Cocktail API landing page</a>,
+      link: <a href="https://stephenportfolio.herokuapp.com/">Personal Portfolio</a>,
       description:
-        `Developed a portfolio one page website that helps showcase my skills, projects and higlights about myself.`,
-      subHeading: "Technologies Used: React JS, Bootsrap",
+        `Developed a one page portfolio website that helps showcase my skills, projects and higlights about myself.`,
+      subHeading: "Technologies Used: React JS, Bootstrap, PS",
     },
     {
       title: " Cocktails API Webpage ",
@@ -77,7 +77,7 @@ export default function Resume(props) {
         `Created a software application that returns API information from the cocktails API database.
         This application helps users search several
         information about their favorite cocktails`,
-      subHeading: "Technologies Used: React JS, Bootstrap",
+      subHeading: "Technologies Used: React JS, Bootstrap, PS",
     },
     {
       title: "Mobile Cart Shop",
@@ -85,7 +85,7 @@ export default function Resume(props) {
       link: <a href="https://deeeraaa.github.io/cart/">Mobile Cart </a>,
       description:
         `Created a mobile shop Cart to add mobile phones to a shopping cart `,
-      subHeading: "Technologies Used: React JS, Bootstrap",
+      subHeading: "Technologies Used: React JS, CSS",
     },
   ];
 

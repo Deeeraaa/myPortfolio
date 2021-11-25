@@ -72,7 +72,7 @@ export default function Resume(props) {
     {
       title: " Cocktails API Webpage ",
       duration: { fromDate: "2020", toDate: "2021" },
-      link: <a href="https://deeeraaa.github.io/cocktailsDB/">Cocktail API landing page</a>,
+      link: <a href="https://deeeraaa.github.io/cocktails/">Cocktail API landing page</a>,
       description:
         `Created a software application that returns API information from the cocktails API database.
         This application helps users search several
@@ -92,7 +92,7 @@ export default function Resume(props) {
   const resumeDetails = [
     <div className="resume-screen-container" key="education">
       <ResumeHeading
-        heading={" EFS BOOTCAMP"}
+        heading={"Empowering Future Skills BOOTCAMP"}
         subHeading={"FRONTEND SOFTWARE DEVELOPMENT"}
         fromDate={"2021"}
         toDate={"2021"}
@@ -112,8 +112,8 @@ export default function Resume(props) {
     </div>,
     <div className="resume-screen-container" key="work-experience">
       <ResumeHeading
-        heading={"Ehizeex Technology"}
-        subHeading={"FRONTEND DEVELOPER"}
+        heading={"WhiteSpaces Labs"}
+        subHeading={"FRONTEND DEVELOPER INTERN"}
         fromDate={"2021"}
         toDate={"2021"}
       />
@@ -136,8 +136,8 @@ export default function Resume(props) {
 
       
       <ResumeHeading
-        heading={"WhiteSpaces Labs"}
-        subHeading={"FRONTEND DEVELOPER INTERN"}
+        heading={"Curators Hub"}
+        subHeading={"PYTHON PROGRAMMING TUTOR"}
         fromDate={"2020"}
         toDate={"2021"}
       />
@@ -148,7 +148,7 @@ export default function Resume(props) {
       </div>
       <div className="experience-description">
         <span className="resume-description-text">
-          -Worked with the frontend team to build lots of high end web applications.{" "}
+          -Tutored several students the fundamnetals to advanced Python programming.{" "}
         </span>
         <br />
         <span className="resume-description-text">
